@@ -1,0 +1,15 @@
+1 business - 1case study everyday
+2 power query - power bi / excel - every feature in the front to have used/ discussed
+3 Power bi desktop - 
+	1 data source excel 
+	2 ms access
+	3 all others
+
+excel as a data source - data cleansing 
+rows data manipulation for clean data	
+columns  manipulation for clean data
+duplicate  manipulation for clean data
+summaryzation
+first order of each customers shows in this column as 1
+measure , quick fields - DAX 
+power bi service , mobile , tenent workspace shared file
