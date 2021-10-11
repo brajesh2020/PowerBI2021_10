@@ -1,0 +1,16 @@
+Measure
+https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-measures
+1> replicate the tasks in above link on a different dataset
+2> create some pivots in excel and replicate the same in powerbi using measures
+
+DAteKey1 = YEAR(Date_data[Date])&FORMAT(MONTH(Date_data[Date]),"mm")&FORMAT(DAY(Date_data[Date]),"dd")
+
+Last_Date = MAX('Date'[Date])
+
+in the date snapshot
+create columns as shared based on one date field and formulas
+create columns as shared based on one date field and formats only , no formulas
+
+
+1case study everyday
+https://powerbi.microsoft.com/en-us/customer-showcase/
