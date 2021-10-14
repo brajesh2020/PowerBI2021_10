@@ -1,0 +1,27 @@
+1> created a sample data in ticketing system and a dashboard based on that
+	> hw  > to create a dashboard of pipeline and show that as KPIs
+
+2>filter a date column without using actual date
+	filter between 1st march to 15th april by using their number values from excel
+
+3> in a table using date show other date formats as separate fields
+
+4> create a ecommerce data in excel and map it manually in power bi
+
+5> table standardization while creating data model
+1. First Normal Form (1NF)
+2. Second Normal Form (2NF)
+3. Third Normal Form (3NF) 
+4. Boyce-Codd Normal Form (BCNF)
+5. Forth Normal Form (4NF)
+6. Fifth Normal Form (5NF) 
+https://www.guru99.com/database-normalization.html
+
+6 table standardization while importing an excel file to ms access
+
+7 Cross filter direction and Cardinality 
+https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-relationships-understand
+
+8 to create a power bi dashboard more sensible and readabale than a powerpoint
+
+9 to get the headers and the data in a crude format csv file using power bi
